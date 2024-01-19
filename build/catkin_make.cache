@@ -1,0 +1,2 @@
+first_pkg
+-DCATKIN_DEVEL_PREFIX=/home/varel/sekuropostdaymodule4/devel -DCMAKE_INSTALL_PREFIX=/home/varel/sekuropostdaymodule4/install -G Unix Makefiles

@@ -1,0 +1,5 @@
+float64 komponenX
+float64 komponenY
+float64 komponenZ
+---
+float64 magnitude
